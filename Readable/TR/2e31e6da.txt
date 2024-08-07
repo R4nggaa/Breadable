@@ -1,0 +1,3 @@
+Venti'nin bulmak istediği şarkının bir kısmı. Bu kısım şöyle: "Tanrılar ayak bastı bir zamanlar bu diyara. Şairler ve ozanlar gösterdi yüzlerini: Sonsuz parlaklık, şekli olmayan bir güzellik, tıpkı senin gibi."
+Tanrılar ayak bastı bir zamanlar bu diyara. Alimler ve bilgelere açtı suretlerini: Yıldız parıltısı, ayın yörüngesi, tıpkı senin gibi.
+<image name=ReadPic_Test />
